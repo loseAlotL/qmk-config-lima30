@@ -1,8 +1,8 @@
 # lima30
 
-![lima30](imgur.com image replace me!)
+![lima30](imgur.com image replace me!) no, no image ha
 
-*A short description of the keyboard/project*
+30 key split columnar steno keyboard. (witha knob yay)
 
 * Keyboard Maintainer: [loseAlotL](https://github.com/loseAlotL)
 * Hardware Supported: *The PCBs, controllers supported*
@@ -27,3 +27,5 @@ Enter the bootloader in 3 ways:
 * **Keycode in layout**: Press the key mapped to `QK_BOOT` if it is available
 "# qmk-config-lima30" 
 "# qmk-config-lima30" 
+
+ehehehah
